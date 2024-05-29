@@ -1,0 +1,22 @@
+body{
+    background: #222222;
+    font-family: Arial, sans-serif;
+}
+
+.h1Normal{
+    color: white;
+}
+
+.BUTTONN{
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 15px 32px;
+    text-align: center;
+
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    color: black;
+}
